@@ -1,0 +1,3 @@
+IntSmarty is an extension to the Smarty Templating Library for PHP which allows you to implement multi-lingual web sites in a very effective manner. It uses a method similar to gettext(), except you have the full support of the Smarty templating language itself to determine the way the string will be translated (great if you are translating text which has variables such as "I have X orange(s)".
+
+IntSmarty was featured on the cover of the April, 2004 issue of php|architect.
